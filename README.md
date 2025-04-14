@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Hare Omagari.jpg" alt="Hare Omagari" width="500"/>
 </div>
-<h2 align="center">🍵 I'm <a href="https://x.com/imsauce_" target="_blank">Sauce</a>, silly programmer with caffiene addiction and ADHD 🍵</h2>
+<h2 align="center"> I'm BigJohnson, I love Big Hot Goth programmer mommies</h2>
 
 <h3 align="left">My Arsenal:</h3>
 <p align="left">
