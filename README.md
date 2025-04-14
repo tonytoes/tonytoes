@@ -1,7 +1,7 @@
 <div align="center">
   <img src="inaninomae.jpg" alt="wife" width="500"/>
 </div>
-<h2 align="center"> I'm BigJohnson, I love Big Hot Goth programmer mommies</h2>
+<h2 align="center"> I'm Sphinx Ina's Husband</h2>
 
 <h3 align="left">My Arsenal:</h3>
 <p align="left">
