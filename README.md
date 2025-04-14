@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="emogf.png" alt="goth" width="500"/>
+  <img src="inaninomae.jpg" alt="wife" width="500"/>
 </div>
 <h2 align="center"> I'm BigJohnson, I love Big Hot Goth programmer mommies</h2>
 
