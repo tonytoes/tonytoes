@@ -1,2 +1,2 @@
-<h1 align="center"> I'm Sphinx</h2>
+<h2 align="center"> I'm Sphinx</h2>
 
