@@ -1,4 +1,4 @@
-<h2 align="center"> hello, i'm sphinx!</h2>
+<h2 align="center"> hello, i'm sphinx!
 
 ```javascript
 const sphinx 
@@ -7,3 +7,5 @@ const sphinx
   
 }
 ```
+
+</h2>
