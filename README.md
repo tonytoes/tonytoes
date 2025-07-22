@@ -1,4 +1,4 @@
-<h2 align="center"> hello, i'm sphinx!
+<h2> hello, i'm sphinx!
 
 ```javascript
 const sphinx 
