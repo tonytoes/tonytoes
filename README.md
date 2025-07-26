@@ -5,7 +5,7 @@
 ```javascript
 const sphinx 
 {
-  likes: ["saba", "ina"],
+  likes: ["saba", "ina", dooby],
 }
 ```
 
