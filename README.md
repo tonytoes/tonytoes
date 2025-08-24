@@ -2,7 +2,7 @@
 
 
 ```javascript
-const Tony
+const tony
 {
   likes: ["saba", "ina", "dooby"],
 }
