@@ -2,7 +2,7 @@
 
 
 ```javascript
-const oshi
+const sphinx
 {
   likes: ["saba", "ina", "dooby"],
 }
