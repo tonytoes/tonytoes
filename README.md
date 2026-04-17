@@ -1,5 +1,5 @@
 # Tony
-[sphinxxy.me](https://sphinxyy.me)
+[sphinxy.me](https://sphinxy.me)
 
 
 ```javascript
